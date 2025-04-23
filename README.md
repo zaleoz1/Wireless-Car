@@ -80,7 +80,8 @@ O código principal está organizado da seguinte forma:
 
 ## 📷 Imagens do Projeto
 
-> *Adicione aqui fotos do carro montado ou do circuito prototipado.*
+<img src="Img/photo_11_2025-04-16_15-41-12.jpg" alt="Circuito" width="120"/>
+
 
 ## 🧑‍💻 Autores
 
