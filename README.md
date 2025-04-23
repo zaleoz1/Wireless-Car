@@ -84,7 +84,7 @@ O código principal está organizado da seguinte forma:
 
 ## 🧑‍💻 Autores
 
-Projeto desenvolvido por: Gabriel Rodrigues, Kaio Alexandre, Isaléo Guimarães, Guilherme Ruan, João Guilherme<br>
+Projeto desenvolvido por: Isaléo Guimarães, Gabriel Rodrigues, Kaio Alexandre, Guilherme Ruan, João Guilherme<br>
 Curso: Ciências da Compurtação - Estácio<br>
 Disciplina: Microcontroladores
 
