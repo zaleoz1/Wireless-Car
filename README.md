@@ -80,8 +80,13 @@ O código principal está organizado da seguinte forma:
 
 ## 📷 Imagens do Projeto
 
-<img src="Img/photo_11_2025-04-16_15-41-12.jpg" alt="Circuito" width="120"/>
-
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="Img/photo_11_2025-04-16_15-41-12.jpg" alt="Circuito 1" width="100"/>
+  <img src="Img/photo_12_2025-04-16_15-41-12.jpg" alt="Circuito 2" width="100"/>
+   <img src="Img/photo_7_2025-04-16_15-41-12.jpg" alt="Circuito 2" width="133"/>
+   <img src="Img/photo_9_2025-04-16_15-41-12.jpg" alt="Circuito 2" width="133"/>
+   <img src="Img/photo_1_2025-04-16_15-41-12.jpg" alt="Circuito 2" width="133"/>
+</div>
 
 ## 🧑‍💻 Autores
 
