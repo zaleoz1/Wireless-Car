@@ -53,11 +53,11 @@ Este é um projeto de um carro controlado por Bluetooth utilizando Arduino Nano,
 
 ## ⚙️ Diagrama de Ligação
 
-<div>
-  <img src="Img/ligacao1.png" width="450">
-  <img src="Img/ligacao2.png" width="450">
-  <img src="Img/ligacao3.png" width="450">
-  <img src="Img/ligacao4.png" width="450">
+<div display="flex">
+  <img src="Img/ligacao1.png" width="300">
+  <img src="Img/ligacao2.png" width="300">
+  <img src="Img/ligacao3.png" width="300">
+  <img src="Img/ligacao4.png" width="300">
 </div>
 
 ## 🧠 Lógica do Código
