@@ -53,7 +53,13 @@ Este é um projeto de um carro controlado por Bluetooth utilizando Arduino Nano,
 
 ## ⚙️ Diagrama de Ligação
 
-> Em breve será adicionado um esquema de ligação com os pinos do Arduino Nano e os demais módulos.
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="Img/1.png" alt="Circuito 1" width="200"/>
+  <img src="Img/2.png" alt="Circuito 1" width="200"/>
+  <img src="Img/3.png" alt="Circuito 1" width="200"/>
+  <img src="Img/4.png" alt="Circuito 1" width="200"/>
+  
+</div>
 
 ## 🧠 Lógica do Código
 
